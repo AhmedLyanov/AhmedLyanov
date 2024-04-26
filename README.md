@@ -16,6 +16,5 @@
 
 <h3 align="center">Видео презентация</h3>
 <p align="center">
-  <a href="https://youtu.be/_ZwWm0Twt_k?si=vVXA2vssakiuwsxz">
-    <img src="https://mykaleidoscope.ru/x/uploads/posts/2022-10/1666389923_30-mykaleidoscope-ru-p-klassnaya-priroda-oboi-32.jpg" alt="Видео презентация" width="560" height="315" />
-  </a>
+ <img src="https://mykaleidoscope.ru/x/uploads/posts/2022-10/1666389923_30-mykaleidoscope-ru-p-klassnaya-priroda-oboi-32.jpg" alt="Видео презентация" width="560" height="315" />
+
