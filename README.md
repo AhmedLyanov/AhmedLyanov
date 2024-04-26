@@ -17,5 +17,5 @@
 <h3 align="center">Видео презентация</h3>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ВАШ_ИДЕНТИФИКАТОР_ВИДЕО">
-    <img src="https://youtu.be/_ZwWm0Twt_k" alt="Видео презентация" width="560" height="315" />
+    <video src="https://youtu.be/_ZwWm0Twt_k" alt="Видео презентация" width="560" height="315" />
   </a>
