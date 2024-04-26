@@ -17,5 +17,5 @@
 <h3 align="center">Видео презентация</h3>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ВАШ_ИДЕНТИФИКАТОР_ВИДЕО">
-    <video src="https://mykaleidoscope.ru/x/uploads/posts/2022-10/1666389923_30-mykaleidoscope-ru-p-klassnaya-priroda-oboi-32.jpg" alt="Видео презентация" width="560" height="315" />
+    <img src="https://mykaleidoscope.ru/x/uploads/posts/2022-10/1666389923_30-mykaleidoscope-ru-p-klassnaya-priroda-oboi-32.jpg" alt="Видео презентация" width="560" height="315" />
   </a>
