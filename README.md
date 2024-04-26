@@ -16,5 +16,5 @@
 
 <h3 align="center">Видео презентация</h3>
 <p align="center">
- <img src="https://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif" alt="Видео презентация" width="560" height="315" />
+ <img src="https://i0.wp.com/cdn-images-1.medium.com/max/1600/1*zfHgiP6zVBVvQT5YxISiJw.gif?resize=540%2C331&ssl=1" alt="Видео презентация" width="560" height="315" />
 
