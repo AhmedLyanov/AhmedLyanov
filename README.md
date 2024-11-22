@@ -29,6 +29,7 @@
 <h3 align="center">Инструменты и среды разработки</h3>
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Studio Code"></a> |
+  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img height="25" src="https://avatars.mds.yandex.net/get-entity_search/4964907/551836188/S122x122FitScale_2x"></a> |
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma"></a> |
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img height="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"></a> |
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img height="25" src="https://logodix.com/logo/1638878.png" alt="NGINX"></a> 
