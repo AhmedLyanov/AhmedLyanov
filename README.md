@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Льянов Ахмед</h1>
+r<h1 align="center">Привет, я Льянов Ахмед</h1>
 <h3 align="center">Начинающий фронтенд-разработчик</h3>
 <hr>
 
@@ -10,7 +10,7 @@
 - [Boardriders](https://ahmedlyanov.github.io/Boardriders/): Мой первый проект, созданный во время изучения фронтенд-программирования.
 
 ### Технологии, которые я использую:
-<p align="left">
+<p align="center">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"></a> |
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></a> |
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></a> |
