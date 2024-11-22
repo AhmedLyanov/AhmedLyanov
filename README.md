@@ -1,46 +1,46 @@
 <h1 align="center">Привет, я Льянов Ахмед</h1>
 <h3 align="center">Начинающий фронтенд-разработчик</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7bUPzRIPYPaD6CEI/giphy.gif" alt="Приветствие" width="300"/>
-</p>
-
 <hr>
 
 ### О себе
-Я начинающий фронтенд-разработчик с пониманием технологий HTML, CSS и JavaScript, а также опыт работы с фреймворками, такими как React и Electron. Пробую реализовать различные идеи для проектов и постоянно обучаюсь новому.
+Я начинающий фронтенд-разработчик с пониманием технологий HTML, CSS и JavaScript, а также опытом работы с фреймворками, такими как React и Electron. Пробую реализовать различные идеи для проектов и постоянно обучаюсь новому.
 
 ### Проекты
 - **[Mercedes-Benz Brand Experience](https://ahmedlyanov.github.io/Mercedes-Benz-Brand-Experiance/main/index.html)**: Незавершенный проект, посвященный взаимодействию с брендом Mercedes-Benz.
 - **[Boardriders](https://ahmedlyanov.github.io/Boardriders/)**: Мой первый проект, созданный во время изучения фронтенд-программирования.
+
 ### Технологии, которые я использую:
 <p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
-  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/> </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">HTML5</a> |
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">CSS3</a> |
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">JavaScript</a> |
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">Node.js</a> |
+  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">Electron</a> |
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">NGINX</a> |
+  <a href="https://github.com/" target="_blank" rel="noreferrer">GitHub</a>
 </p>
 
 ### Библиотеки
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Mongoose_logo.svg" alt="Mongoose"></code>
-  <code><img height="25" src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo.svg" alt="Bootstrap"></code>
-  <code><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/figma-2822567-2341948.png" alt="Figma"></code>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">React</a> |
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">Mongoose</a> |
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">Bootstrap</a> |
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">Figma</a>
 </p>
 
 ### Инструменты и среды разработки
 <p align="center">
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code"></code>
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub"></code>
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Nginx_logo.png" alt="NGINX"></code>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">Visual Studio Code</a> |
+  <a href="https://github.com/" target="_blank" rel="noreferrer">GitHub</a> |
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">NGINX</a>
 </p>
 
+### Дополнительная информация
+Я всегда открыт для новых возможностей и сотрудничества. Если у вас есть интересные проекты или идеи, не стесняйтесь связаться со мной!
 
-
+### Контакты
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [Ваш профиль LinkedIn](https://www.linkedin.com/in/ваш-профиль/)
 
 ### Контакты
 - [LinkedIn](https://linkedin.com/in/ваш-линк)
