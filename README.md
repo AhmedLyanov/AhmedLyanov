@@ -12,7 +12,7 @@
 
 ### Проекты
 - **[Mercedes-Benz Brand Experience](https://ahmedlyanov.github.io/Mercedes-Benz-Brand-Experiance/main/index.html)**: Незавершенный проект, посвященный взаимодействию с брендом Mercedes-Benz.
-- **[Boardriders]([https://github.com/ваш-ник/boardriders](https://ahmedlyanov.github.io/Boardriders/))**: Мой первый проект, созданный во время изучения фронтенд-программирования.
+- **[Boardriders](https://ahmedlyanov.github.io/Boardriders/)**: Мой первый проект, созданный во время изучения фронтенд-программирования.
 
 ### Технологии, которые я использую:
 <p align="left">
