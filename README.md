@@ -16,27 +16,29 @@
 ### Технологии, которые я использую:
 <p align="center">
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/css-3.svg" alt="CSS"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/javascript.svg" alt="JavaScript"></code>
-  <code><img height="25" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/html-5.svg" alt="HTML"></code>
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"></code>
 </p>
 
 ### Библиотеки
 <p align="center">
-  <code><img height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma"></code>
-  <code><img height="25" src="https://img.icons8.com/?size=512&id=74402&format=png" alt="MongoDB"></code>
-  <code><img height="25" src="https://reactjs.org/favicon.ico" alt="Redux"></code>
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Electron_Software_Logo.svg" alt="Electron"></code>
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Redux_logo.png" alt="Redux"></code>
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Mongoose_logo.svg" alt="Mongoose"></code>
+  <code><img height="25" src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo.svg" alt="Bootstrap"></code>
+  <code><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/figma-2822567-2341948.png" alt="Figma"></code>
 </p>
 
 ### Инструменты и среды разработки
 <p align="center">
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Studio Code"></code>
-  <code><img height="25" src="https://app.lottiefiles.com/images/1.gif" alt="GitHub"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX"></code>
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code"></code>
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub"></code>
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Nginx_logo.png" alt="NGINX"></code>
 </p>
+
+
 
 
 ### Контакты
