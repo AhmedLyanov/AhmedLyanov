@@ -1,4 +1,4 @@
-r<h1 align="center">Привет, я Льянов Ахмед</h1>
+<h1 align="center">Привет, я Льянов Ахмед</h1>
 <h3 align="center">Начинающий фронтенд-разработчик</h3>
 <hr>
 
@@ -40,8 +40,8 @@ r<h1 align="center">Привет, я Льянов Ахмед</h1>
 Я всегда открыт для новых возможностей и сотрудничества. Если у вас есть интересные проекты или идеи, не стесняйтесь связаться со мной!
 
 ### Контакты
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Ваш профиль LinkedIn](https://www.linkedin.com/in/ваш-профиль/)
+- Telegram: https://t.me/WelcomeToIThub
+- VK: https://vk.com/AliveJS
 
 ### Спасибо за визит!
 
