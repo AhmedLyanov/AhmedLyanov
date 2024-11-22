@@ -11,8 +11,8 @@
 Я начинающий фронтенд-разработчик с пониманием технологий HTML, CSS и JavaScript, а также опыт работы с фреймворками, такими как React и Electron. Пробую реализовать различные идеи для проектов и постоянно обучаюсь новому.
 
 ### Проекты
-- **[Mercedes-Benz Brand Experience](https://github.com/ваш-ник/мерседес)**: Незавершенный проект, посвященный взаимодействию с брендом Mercedes-Benz.
-- **[Boardriders](https://github.com/ваш-ник/boardriders)**: Мой первый проект, созданный во время изучения фронтенд-программирования.
+- **[Mercedes-Benz Brand Experience](https://ahmedlyanov.github.io/Mercedes-Benz-Brand-Experiance/main/index.html)**: Незавершенный проект, посвященный взаимодействию с брендом Mercedes-Benz.
+- **[Boardriders]([https://github.com/ваш-ник/boardriders](https://ahmedlyanov.github.io/Boardriders/))**: Мой первый проект, созданный во время изучения фронтенд-программирования.
 
 ### Технологии, которые я использую:
 <p align="left">
