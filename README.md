@@ -13,22 +13,29 @@
 ### Проекты
 - **[Mercedes-Benz Brand Experience](https://ahmedlyanov.github.io/Mercedes-Benz-Brand-Experiance/main/index.html)**: Незавершенный проект, посвященный взаимодействию с брендом Mercedes-Benz.
 - **[Boardriders](https://ahmedlyanov.github.io/Boardriders/)**: Мой первый проект, созданный во время изучения фронтенд-программирования.
-
 ### Технологии, которые я использую:
 <p align="center">
-  <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="java"></code>
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/css-3.svg" alt="CSS"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/javascript.svg" alt="JavaScript"></code>
-  <code><img height="25" src="https://img.icons8.com/?size=512&id=74402&format=png" alt="db"></code>
+  <code><img height="25" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Node.js"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/html-5.svg" alt="HTML"></code>
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Tableau"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
-  <code><img height="25" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs"></code>
-  <code><img height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma"></code>
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React"></code>
 </p>
-### Среды разработки:
+
+### Библиотеки
 <p align="center">
-  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
+  <code><img height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma"></code>
+  <code><img height="25" src="https://img.icons8.com/?size=512&id=74402&format=png" alt="MongoDB"></code>
+  <code><img height="25" src="https://reactjs.org/favicon.ico" alt="Redux"></code>
+  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Electron_Software_Logo.svg" alt="Electron"></code>
+</p>
+
+### Инструменты и среды разработки
+<p align="center">
+  <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Studio Code"></code>
+  <code><img height="25" src="https://app.lottiefiles.com/images/1.gif" alt="GitHub"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX"></code>
 </p>
 
 
