@@ -34,6 +34,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma"></a> |
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img height="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"></a> |
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img height="25" src="https://logodix.com/logo/1638878.png" alt="NGINX"></a> 
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img height="25" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman"></a> 
 </p>
 
 
