@@ -43,8 +43,8 @@
 Я всегда открыт для новых возможностей и сотрудничества. Если у вас есть интересные проекты или идеи, не стесняйтесь связаться со мной!
 
 ### Контакты
-- Telegram: https://t.me/WelcomeToIThub
-- VK: https://vk.com/AliveJS
+- Telegram: https://t.me/devahmed1
+- VK: https://vk.com/devahmed
 
 ### Спасибо за визит!
 
