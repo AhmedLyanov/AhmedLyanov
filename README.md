@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ed/bf/ff/edbfff9928fdf4d4bb11bf403249c133.jpg" alt="Header Image" width="100%">
+  <img src="https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Akhmed Lyanov</h1>
