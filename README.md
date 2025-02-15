@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/jHljFC9ckLoAAAAC/hello-world.gif" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Akhmed Lyanov</h1>
+<h1 align="center">Hi, I'm Ahmed Lyanov</h1>
 <h3 align="center">Aspiring Fullstack Developer</h3>
 <hr>
 
