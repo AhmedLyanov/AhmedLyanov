@@ -41,6 +41,7 @@ I am an aspiring fullstack developer with a solid understanding of HTML, CSS, an
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"></a> &nbsp;
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img height="30" src="https://logodix.com/logo/1638878.png" alt="NGINX"></a> &nbsp;
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img height="30" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman"></a> 
+  <a href="https://www.filezilla.ru/" target="_blank" rel="noreferrer"><img height="30" src="https://www.filezilla.ru/img/filezilla.svg" alt="FileZilla"></a> 
 </p>
 
 ### Additional Information
