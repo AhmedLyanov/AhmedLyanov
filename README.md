@@ -29,6 +29,7 @@ I am an aspiring fullstack developer with a solid understanding of HTML, CSS, an
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img height="30" src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo.svg" alt="Bootstrap"></a> &nbsp;
   <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="Electron"></a> 
   <a href="https://flutter.org" target="_blank" rel="noreferrer"><img height="30" src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" alt="Flutter"></a> 
+  <a href="https://https://tailwindcss.com" target="_blank" rel="noreferrer"><img height="30" src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4" alt="TailwindCSS"></a>
 </p>
 
 <h3 align="center">Tools & IDEs</h3>
