@@ -19,6 +19,7 @@ I am an aspiring fullstack developer with a solid understanding of HTML, CSS, an
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></a> &nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"></a> 
+  <a href="https://https://dart.dev" target="_blank" rel="noreferrer"><img height="30" src="https://dart.dev/assets/img/logo/logo-white-text.svg" alt="Dart"></a>
 </p>
 
 <h3 align="center">Libraries & Frameworks</h3>
