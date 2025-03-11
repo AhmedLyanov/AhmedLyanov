@@ -15,6 +15,7 @@ I am an aspiring fullstack developer with a solid understanding of HTML, CSS, an
 
 <h3 align="center">Technologies I Use</h3>
 <p align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=F7EF40&width=435&lines=JavaScript)](https://git.io/typing-svg)
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"></a> &nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></a> &nbsp;
