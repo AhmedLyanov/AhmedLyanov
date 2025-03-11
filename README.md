@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://media.tenor.com/jHljFC9ckLoAAAAC/hello-world.gif" width="100%">
 </p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=F7EF40&width=435&lines=JavaScript)](https://git.io/typing-svg)
 
 <h1 align="center">Hi, I'm Ahmed Lyanov</h1>
