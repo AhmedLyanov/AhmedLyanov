@@ -4,7 +4,7 @@
 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></a> &nbsp;  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&duration=1&pause=1000&color=E3F71B&width=110&lines=JavaScript)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&duration=1&pause=1000&color=188AF7&width=100&lines=Dart)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&duration=1&pause=1000&color=E3F71B&width=130&lines=JavaScript)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&duration=1&pause=1000&color=188AF7&width=100&lines=Dart)](https://git.io/typing-svg)
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></a> &nbsp; 
 
