@@ -1,11 +1,12 @@
 <p align="center">
   <img src="https://media.tenor.com/jHljFC9ckLoAAAAC/hello-world.gif" width="100%">
 </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=F7EF40&width=435&lines=JavaScript)](https://git.io/typing-svg)
 
 <h1 align="center">Hi, I'm Ahmed Lyanov</h1>
 <h3 align="center">Aspiring Fullstack Developer</h3>
 <hr>
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=F7EF40&width=435&lines=JavaScript)](https://git.io/typing-svg)
+
 ### About Me
 I am an aspiring fullstack developer with a solid understanding of HTML, CSS, and JavaScript, as well as experience working with frameworks like React and Electron. I enjoy bringing various project ideas to life and am constantly learning new technologies to improve my skills.
 
