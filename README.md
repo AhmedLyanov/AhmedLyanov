@@ -3,7 +3,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=1&pause=1000&color=E3F71B&width=270&height=130&lines=JavaScript)](https://git.io/typing-svg)  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=1&pause=1000&color=F79231&width=270&height=130&lines=HTML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=1&pause=1000&color=E3F71B&width=270&height=130&lines=JavaScript)](https://git.io/typing-svg)  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=1&pause=1000&color=F79231&width=100&height=100&lines=HTML)](https://git.io/typing-svg)
 
 <h1 align="center">Hi, I'm Ahmed Lyanov</h1>
 <h3 align="center">Aspiring Fullstack Developer</h3>
