@@ -4,7 +4,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=1&pause=1000&color=F79231&width=80&height=130&lines=HTML)](https://git.io/typing-svg)  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=1&pause=1000&color=226BF7&width=80&height=130&lines=CSS)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=1&pause=1000&color=E3F71B&width=200&height=130&lines=JavaScript)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=1&pause=1000&color=226BF7&width=150&height=130&lines=Bootstrap)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=1&pause=1000&color=E3F71B&width=200&height=130&lines=JavaScript)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=1&pause=1000&color=226BF7&width=150&height=130&lines=Bootstrap)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=1&pause=1000&color=226BF7&width=200&height=130&lines=Tailwind+CSS)](https://git.io/typing-svg)
 <h1 align="center">Hi, I'm Ahmed Lyanov</h1>
 <h3 align="center">Aspiring Fullstack Developer</h3>
 <hr>
