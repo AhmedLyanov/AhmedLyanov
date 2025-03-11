@@ -2,8 +2,8 @@
   <img src="https://media.tenor.com/jHljFC9ckLoAAAAC/hello-world.gif" width="100%">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=F7EF40&width=435&lines=JavaScript)](https://git.io/typing-svg)
-<p align="center"> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" style="filter: invert(75%) sepia(90%) saturate(500%) hue-rotate(360deg);"></a> &nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" style="filter: invert(75%) sepia(90%) saturate(500%) hue-rotate(360deg);"></a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="filter: invert(75%) sepia(90%) saturate(500%) hue-rotate(360deg);"></a> &nbsp; <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" style="filter: invert(75%) sepia(90%) saturate(500%) hue-rotate(360deg);"></a> &nbsp; <a href="https://dart.dev" target="_blank" rel="noreferrer"><img height="30" src="https://dart.dev/assets/img/logo/logo-white-text.svg" alt="Dart" style="filter: invert(75%) sepia(90%) saturate(500%) hue-rotate(360deg);"></a> </p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></a> &nbsp;  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=F7EF40&width=435&lines=JavaScript)](https://git.io/typing-svg)
+
 <h1 align="center">Hi, I'm Ahmed Lyanov</h1>
 <h3 align="center">Aspiring Fullstack Developer</h3>
 <hr>
