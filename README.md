@@ -1,57 +1,101 @@
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=60&pause=1000&color=389AF7&center=true&vCenter=true&width=530&height=100&lines=Ahmed+Lyanov)](https://github.com/AhmedLyanov)
+  
+</div>
+
+<h1 align="center">✨ Fullstack Developer 🚀</h1>
+
 <p align="center">
-  <img src="https://media.tenor.com/jHljFC9ckLoAAAAC/hello-world.gif" width="100%">
+  <img src="https://media.tenor.com/jHljFC9ckLoAAAAC/hello-world.gif" width="300">
 </p>
 
+<p align="center">
+    👋 Hi, I'm Ahmed Lyanov, a passionate fullstack developer with expertise in both frontend and backend technologies.
+    I enjoy creating interactive web experiences and solving complex problems with clean, efficient code.
+    Currently expanding my skills in React, Node.js and mobile development with Flutter.
+</p>
 
+<h1 align="center">🛠️ Tech Stack 🧰</h1>
+
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=1&pause=1000&color=F79231&width=80&height=130&lines=HTML)](https://git.io/typing-svg)  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=1&pause=1000&color=226BF7&width=80&height=130&lines=CSS)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=1&pause=1000&color=E3F71B&width=200&height=130&lines=JavaScript)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=1&pause=1000&color=226BF7&width=170&height=130&lines=Bootstrap)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=1&pause=1000&color=36C6F7&width=200&height=130&lines=Tailwind+CSS)](https://git.io/typing-svg)
-<h1 align="center">Hi, I'm Ahmed Lyanov</h1>
-<h3 align="center">Aspiring Fullstack Developer</h3>
-<hr>
 
-### About Me
-I am an aspiring fullstack developer with a solid understanding of HTML, CSS, and JavaScript, as well as experience working with frameworks like React and Electron. I enjoy bringing various project ideas to life and am constantly learning new technologies to improve my skills.
+</div>
 
-### Projects
-- **[Mercedes-Benz Brand Experience](https://ahmedlyanov.github.io/Mercedes-Benz-Brand-Experiance/main/index.html)**: An ongoing project focused on creating an interactive brand experience for Mercedes-Benz.
-- **[Boardriders](https://ahmedlyanov.github.io/Boardriders/)**: My first project, created while learning frontend development.
+<table align="center">
+  <tbody>
+    <tr>
+      <td>Frontend:</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" />
+      </td>
+    </tr>
+    <tr>
+      <td>Backend:</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" />
+      </td>
+    </tr>
+    <tr>
+      <td>Mobile:</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" />
+      </td>
+    </tr>
+    <tr>
+      <td>Tools:</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<h3 align="center">Technologies I Use</h3>
-<p align="center">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"></a> &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"></a> &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></a> &nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"></a> 
-  <a href="https://https://dart.dev" target="_blank" rel="noreferrer"><img height="30" src="https://dart.dev/assets/img/logo/logo-white-text.svg" alt="Dart"></a>
-</p>
+<h1 align="center">🚀 Featured Projects</h1>
 
-<h3 align="center">Libraries & Frameworks</h3>
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React"></a> &nbsp;
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img height="30" src="https://img.icons8.com/?size=512&id=74402&format=png" alt="Mongoose"></a> &nbsp;
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img height="30" src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo.svg" alt="Bootstrap"></a> &nbsp;
-  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img height="30" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="Electron"></a> 
-  <a href="https://flutter.org" target="_blank" rel="noreferrer"><img height="30" src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" alt="Flutter"></a> 
-  <a href="https://https://tailwindcss.com" target="_blank" rel="noreferrer"><img height="30" src="https://avatars.githubusercontent.com/u/67109815?s=48&v=4" alt="TailwindCSS"></a>
-</p>
+<div align="center">
+  
+- **[Mercedes-Benz Brand Experience](https://ahmedlyanov.github.io/Mercedes-Benz-Brand-Experiance/main/index.html)**  
+  Interactive brand showcase for Mercedes-Benz
+  
+- **[Boardriders](https://ahmedlyanov.github.io/Boardriders/)**  
+  My first frontend development project
 
-<h3 align="center">Tools & IDEs</h3>
-<p align="center">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img height="30" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Studio Code"></a> &nbsp;
-  <a href="https://visualstudio.microsoft.com/ru/" target="_blank" rel="noreferrer"><img height="30" src="https://avatars.mds.yandex.net/get-entity_search/7761650/599314109/S600xU" alt="Visual Studio"></a> &nbsp;
-  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"><img height="30" src="https://avatars.mds.yandex.net/get-entity_search/4964907/551836188/S122x122FitScale_2x" alt="Sublime Text"></a> &nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma"></a> &nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"></a> &nbsp;
-  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img height="30" src="https://logodix.com/logo/1638878.png" alt="NGINX"></a> &nbsp;
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img height="30" src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman"></a> 
-  <a href="https://www.filezilla.ru/" target="_blank" rel="noreferrer"><img height="30" src="https://www.filezilla.ru/img/filezilla.svg" alt="FileZilla"></a> 
-</p>
+</div>
 
-### Additional Information
-I am always open to new opportunities and collaborations. If you have an interesting project or idea, feel free to reach out to me!
+<h1 align="center">📊 GitHub Stats</h1>
 
-### Contact Me
-- **Telegram**: [@devahmed1](https://t.me/devahmed1)
-- **VK**: [devahmed](https://vk.com/devahmed)
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedLyanov&theme=algolia" width="330">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedLyanov&theme=algolia" width="330">
+  
+</div>
 
-### Thanks for Visiting!
+<h1 align="center">🌐 Connect With Me</h1>
+
+<div align="center">
+
+  <a href="https://t.me/devahmed1" target="_blank">
+    <img height="50" src="https://camo.githubusercontent.com/37251ad8dcaeeaafdd0c728120e05a4e98bd67b7d6323013e304460a59f9ff47/68747470733a2f2f706e6769636f6e2e72752f66696c652f75706c6f6164732f74656c656772616d2e706e67">
+  </a>
+  <a href="https://vk.com/devahmed" target="_blank">
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png">
+  </a>
+  
+</div>
