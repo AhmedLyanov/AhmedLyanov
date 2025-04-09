@@ -7,3 +7,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&letterSpacing=&duration=2000&pause=1000&color=9CDCFE&center=true&vCenter=true&repeat=false&width=81&height=30&lines=console)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&letterSpacing=&duration=2000&pause=1000&color=FEFEFE&center=true&vCenter=true&repeat=false&width=10&height=30&lines=.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&letterSpacing=&duration=2000&pause=1000&color=DCDCAA&vCenter=true&repeat=false&width=181&height=30&lines=log(generateText))](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&letterSpacing=&duration=2000&pause=1000&color=DA70B3&vCenter=true&repeat=false&width=20&height=30&lines=())](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&letterSpacing=&duration=2000&pause=1000&color=DCDCAA&center=true&vCenter=true&repeat=false&width=10&height=30&separator=%3C&lines=();)](https://git.io/typing-svg)
+
+
+
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=1500&pause=500&color=2DFF72&center=true&vCenter=true&repeat=false&width=200&height=40&lines=%E2%9E%9C+DevAhmed)](https://git.io/typing-svg)
