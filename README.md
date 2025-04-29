@@ -10,5 +10,4 @@
 
 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&weight=700&size=35&pause=1000&color=2FCF0C&width=435&lines=%3E+DevAhmed;glad+to+meet+you.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&weight=700&size=35&pause=1000&color=2FCF0C&width=435&height=150&lines=%3E+DevAhmed;%3E+glad+to+meet+you.)](https://git.io/typing-svg)
