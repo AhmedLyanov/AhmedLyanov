@@ -14,4 +14,4 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=1500&pause=500&color=2DFF72&center=true&vCenter=true&repeat=false&width=200&height=40&lines=%E2%9E%9C+DevAhmed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=1500&pause=500&color=2DFF72&center=true&vCenter=true&repeat=false&width=200&height=40&lines=%E2%9E%9C+DevAhmed, glad to meet you.)](https://git.io/typing-svg)
