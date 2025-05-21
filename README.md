@@ -11,3 +11,27 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&weight=700&size=35&pause=1000&color=2FCF0C&width=435&height=150&lines=%3E+DevAhmed;%3E+glad+to+meet+you.)](https://git.io/typing-svg)
+
+package main
+
+type AboutMe struct {
+    CurrentFocus string
+    Languages    []string
+    Databases    []string
+    MessageBrokers []string
+    Tools        []string
+    Hobbies      []string
+    FunFact      string
+}
+
+func main() {
+    me := AboutMe{
+        CurrentFocus: "Golang Development",
+        Languages:    []string{"Golang", "Python"},
+        Databases:    []string{"PostgreSQL", "Redis"},
+        MessageBrokers: []string{"Kafka"},
+        Tools:        []string{"Docker", "Git"},
+        Hobbies:      []string{"Music", "Tennis", "Snowboarding"},
+        FunFact:      "Programming accompanied electronic music",
+    }
+}
