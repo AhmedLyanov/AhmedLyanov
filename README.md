@@ -9,8 +9,3 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&letterSpacing=&duration=2000&pause=1000&color=DCDCAA&vCenter=true&repeat=false&width=181&height=30&lines=log(generateText))](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&letterSpacing=&duration=2000&pause=1000&color=DA70B3&vCenter=true&repeat=false&width=20&height=30&lines=())](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&letterSpacing=&duration=2000&pause=1000&color=DCDCAA&center=true&vCenter=true&repeat=false&width=10&height=30&separator=%3C&lines=();)](https://git.io/typing-svg)
 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=consolas&weight=700&size=35&pause=1000&color=2FCF0C&width=435&height=150&lines=%3E+DevAhmed;%3E+glad+to+meet+you.)](https://git.io/typing-svg)
-```JavaScript
-let code = "Lyanov";
-```
